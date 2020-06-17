@@ -1,2 +1,2 @@
 # A new task repository
-Hello coders!
+Hello to all codders!
